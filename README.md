@@ -119,7 +119,7 @@ kubectl create namespace app2
 
 - Проверяем командой `kubectl get namespaces`
 
-![SCR-3]()
+![SCR-3](https://github.com/vladrabbit/K8S-6/blob/main/SCR/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-03%20%D0%B2%2014.46.56.png)
 
 - Запускаем приложения в разных namespace
 
@@ -148,6 +148,6 @@ kubectl create namespace app2
 
     ```
 
-![SCR-5]()
+![SCR-5](https://github.com/vladrabbit/K8S-6/blob/main/SCR/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-03%20%D0%B2%2014.54.15.png)
 
-![SCR-6]()
+![SCR-6](https://github.com/vladrabbit/K8S-6/blob/main/SCR/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-02-03%20%D0%B2%2014.55.13.png)
